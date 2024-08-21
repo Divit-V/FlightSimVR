@@ -1,0 +1,7 @@
+Take off speed: 110 Knots
+				56m/s
+
+Cruise speed: 835km/hr
+			  450 Knots
+
+Cruise altitude: 13,716m
